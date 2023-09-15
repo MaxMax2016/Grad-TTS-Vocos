@@ -118,6 +118,8 @@ https://github.com/Executedone/Chinese-FastSpeech2
 
 https://github.com/PlayVoice/vits_chinese
 
+https://github.com/reppy4620/grad_tts
+
 # Raw Grad-TTS information
 
 Official implementation of the Grad-TTS model based on Diffusion Probabilistic Modelling. For all details check out our paper accepted to ICML 2021 via [this](https://arxiv.org/abs/2105.06337) link.
